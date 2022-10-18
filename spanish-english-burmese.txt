@@ -1,11 +1,10 @@
 Rebeca y Sonia son amigas en Facebook.|||Rebeca and Sonia are friends on Facebook.|||Rebeca နှင့် Sonia တို့သည် Facebook တွင် သူငယ်ချင်းများဖြစ်ကြသည်။
-Miguel y José son jugadores de fútbol.|||Miguel y José are soccer players.|||Miguel y José သည် ဘောလုံးကစားသမားများဖြစ်ကြသည်။
+Miguel y José son jugadores de fútbol.|||Miguel y José are soccer players.|||Miguel y José တို့သည် ဘောလုံးကစားသမားများဖြစ်ကြသည်။
 jugadores|||players|||ကစားသမားများ
 La universidad tiene muchas estudiantes.|||The university has a lot of students.|||တက္ကသိုလ်တွင် ကျောင်းသားများစွာရှိသည်။
 ¿Por qué trabajas los fines de semana?|||Why do you work on the weekends?|||Weekends တွေမှာ ဘာကြောင့် အလုပ်လုပ်တာလဲ။
 ¿Quién tiene muchos negocios?|||Who has many businesses?|||ဘယ်သူက လုပ်ငန်းတွေအများကြီးရှိလဲ။
-Rafael tiene un examen y necesita leer muchos libros.|||Rafael has an exam, and he needs to read a lot of books.|||Rafael က စာ​မေးပွဲ တစ်ခုရှိတယ် ပြီး​တော့ သူစာအုပ်အများကြီးကို ဖတ်ဖို့ လိုတယ်။
-Rebeca y Bruno, ¿ustedes hablan francés?|||Rebeca y Bruno, do you speak French|||Rebeca နဲ့ Bruno တို့​ရေ မင်းတို့ ပြင်သစ်စကား ​ပြောကြသလား​။
+Rafael tiene un examen y necesita leer muchos libros.|||Rafael has an exam, and he needs to read a lot of books.|||Rafael က စာမေးပွဲ တစ်ခုရှိတယ် ပြီးတော့ သူစာအုပ်အများကြီးကို ဖတ်ဖို့ လိုတယ်။
+Rebeca y Bruno, ¿ustedes hablan francés?|||Rebeca y Bruno, do you speak French|||Rebeca နဲ့ Bruno တို့ရေ မင်းတို့ ပြင်သစ်စကား ပြောကြသလား။
 El señor Pérez escribe unas cartas.|||Mr. Pérez is writing some letters.|||မစ္စတာ ပီရက်ဇ်က စာတွေရေးနေတယ်။
 Martín tiene unos amigos de México.|||Martín has some friends from Mexico.|||Martín တွင် မက္ကဆီကိုမှ သူငယ်ချင်းအချို့ရှိသည်။
-Martín တွင် မက္ကဆီကိုမှ သူငယ်ချင်းအချို့ရှိသည်။|||How many friends do you have on Facebook?|||Facebook မှာ သူငယ်ချင်း ဘယ်နှစ်ယောက်ရှိလဲ။
